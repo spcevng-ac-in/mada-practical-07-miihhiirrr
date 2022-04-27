@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ClickableImage/app/src/main/res/drawable/gred_color.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ClickableImage/app/src/main/res/layout/activity_android.xml" value="0.234375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ClickableImage/app/src/main/res/layout/activity_blockchain.xml" value="0.234375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ClickableImage/app/src/main/res/layout/activity_fullstack.xml" value="0.234375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ClickableImage/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Tirth/Downloads/mihir/Practical_7/practical_07/app/src/main/res/layout/activity_android.xml" value="0.2" />
+        <entry key="..\:/Users/Tirth/Downloads/mihir/Practical_7/practical_07/app/src/main/res/layout/activity_blockchain.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Tirth/Downloads/mihir/Practical_7/practical_07/app/src/main/res/layout/activity_fullstack.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Tirth/Downloads/mihir/Practical_7/practical_07/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/mihir/Practical_7/practical_07/app/src/main/res/layout/activity_android.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
